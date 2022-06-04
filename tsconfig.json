@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "declaration": true,
+    "strict": true,
+    "lib": ["esnext"],
+    "outDir": "lib"
+  },
+  "include": ["src"]
+}

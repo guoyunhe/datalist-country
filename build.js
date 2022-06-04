@@ -41,14 +41,9 @@ function cleanName(input) {
     }
   }
 
-  console.log(countries);
-
-  let content = fs.readFileSync('./index.ts', 'utf-8');
-  content = content.replace(
-    /const\ countryDataList:\ CountryData\[\]\ =\ [^;]*;/s,
-    'const countryDataList: CountryData[] = ' +
-      JSON.stringify(countries, null, 2) +
-      ';'
-  );
-  fs.writeFileSync('./index.ts', content);
+  const content =
+    'import { CountryData } from "./CountryData";export const countryDataList: CountryData[] = ' +
+    JSON.stringify(countries, null, 2) +
+    ';';
+  fs.writeFileSync('./src/countryDataList.ts', content);
 })();

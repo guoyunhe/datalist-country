@@ -3,18 +3,17 @@
   "version": "1.0.0",
   "description": "the most complete country data source, with i18n strings",
   "type": "module",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
-    "index.js",
-    "index.d.ts",
+    "lib",
     "CHANGELOG.md",
     "LICENSE",
     "README.md"
   ],
   "scripts": {
-    "build": "node build.js && prettier --write index.ts && tsc --declaration index.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.js && prettier --write src && tsc",
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
