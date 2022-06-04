@@ -5,6 +5,13 @@
   "type": "module",
   "main": "index.js",
   "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ],
   "scripts": {
     "build": "node build.js && prettier --write index.ts && tsc --declaration index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
