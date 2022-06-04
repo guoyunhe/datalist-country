@@ -6,7 +6,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AFG',
     numericCode: '004',
     topLevelDomains: ['.af'],
-    currencyCodes: [],
+    currencyCodes: ['AFN'],
   },
   {
     name: 'Åland Islands',
@@ -14,7 +14,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ALA',
     numericCode: '248',
     topLevelDomains: ['.ax'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Albania',
@@ -22,7 +22,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ALB',
     numericCode: '008',
     topLevelDomains: ['.al'],
-    currencyCodes: [],
+    currencyCodes: ['ALL'],
   },
   {
     name: 'Algeria',
@@ -30,7 +30,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'DZA',
     numericCode: '012',
     topLevelDomains: ['.dz'],
-    currencyCodes: [],
+    currencyCodes: ['DZD'],
   },
   {
     name: 'American Samoa',
@@ -38,7 +38,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ASM',
     numericCode: '016',
     topLevelDomains: ['.as'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Andorra',
@@ -46,7 +46,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AND',
     numericCode: '020',
     topLevelDomains: ['.ad'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Angola',
@@ -54,7 +54,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AGO',
     numericCode: '024',
     topLevelDomains: ['.ao'],
-    currencyCodes: [],
+    currencyCodes: ['AOA'],
   },
   {
     name: 'Anguilla',
@@ -62,7 +62,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AIA',
     numericCode: '660',
     topLevelDomains: ['.ai'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Antarctica',
@@ -78,7 +78,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ATG',
     numericCode: '028',
     topLevelDomains: ['.ag'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Argentina',
@@ -86,7 +86,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ARG',
     numericCode: '032',
     topLevelDomains: ['.ar'],
-    currencyCodes: [],
+    currencyCodes: ['ARS'],
   },
   {
     name: 'Armenia',
@@ -94,7 +94,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ARM',
     numericCode: '051',
     topLevelDomains: ['.am'],
-    currencyCodes: [],
+    currencyCodes: ['AMD'],
   },
   {
     name: 'Aruba',
@@ -102,7 +102,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ABW',
     numericCode: '533',
     topLevelDomains: ['.aw'],
-    currencyCodes: [],
+    currencyCodes: ['AWG'],
   },
   {
     name: 'Australia',
@@ -110,7 +110,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AUS',
     numericCode: '036',
     topLevelDomains: ['.au'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Austria',
@@ -118,7 +118,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AUT',
     numericCode: '040',
     topLevelDomains: ['.at'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Azerbaijan',
@@ -126,7 +126,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'AZE',
     numericCode: '031',
     topLevelDomains: ['.az'],
-    currencyCodes: [],
+    currencyCodes: ['AZN'],
   },
   {
     name: 'Bahamas',
@@ -134,7 +134,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BHS',
     numericCode: '044',
     topLevelDomains: ['.bs'],
-    currencyCodes: [],
+    currencyCodes: ['BSD'],
   },
   {
     name: 'Bahrain',
@@ -142,7 +142,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BHR',
     numericCode: '048',
     topLevelDomains: ['.bh'],
-    currencyCodes: [],
+    currencyCodes: ['BHD'],
   },
   {
     name: 'Bangladesh',
@@ -150,7 +150,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BGD',
     numericCode: '050',
     topLevelDomains: ['.bd'],
-    currencyCodes: [],
+    currencyCodes: ['BDT'],
   },
   {
     name: 'Barbados',
@@ -158,7 +158,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BRB',
     numericCode: '052',
     topLevelDomains: ['.bb'],
-    currencyCodes: [],
+    currencyCodes: ['BBD'],
   },
   {
     name: 'Belarus',
@@ -166,7 +166,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BLR',
     numericCode: '112',
     topLevelDomains: ['.by'],
-    currencyCodes: [],
+    currencyCodes: ['BYN'],
   },
   {
     name: 'Belgium',
@@ -174,7 +174,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BEL',
     numericCode: '056',
     topLevelDomains: ['.be'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Belize',
@@ -182,7 +182,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BLZ',
     numericCode: '084',
     topLevelDomains: ['.bz'],
-    currencyCodes: [],
+    currencyCodes: ['BZD'],
   },
   {
     name: 'Benin',
@@ -190,7 +190,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BEN',
     numericCode: '204',
     topLevelDomains: ['.bj'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Bermuda',
@@ -198,7 +198,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BMU',
     numericCode: '060',
     topLevelDomains: ['.bm'],
-    currencyCodes: [],
+    currencyCodes: ['BMD'],
   },
   {
     name: 'Bhutan',
@@ -206,7 +206,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BTN',
     numericCode: '064',
     topLevelDomains: ['.bt'],
-    currencyCodes: [],
+    currencyCodes: ['BTN', 'INR'],
   },
   {
     name: 'Bolivia (Plurinational State of)',
@@ -230,7 +230,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BIH',
     numericCode: '070',
     topLevelDomains: ['.ba'],
-    currencyCodes: [],
+    currencyCodes: ['BAM'],
   },
   {
     name: 'Botswana',
@@ -238,7 +238,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BWA',
     numericCode: '072',
     topLevelDomains: ['.bw'],
-    currencyCodes: [],
+    currencyCodes: ['BWP'],
   },
   {
     name: 'Bouvet Island',
@@ -246,7 +246,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BVT',
     numericCode: '074',
     topLevelDomains: [''],
-    currencyCodes: [],
+    currencyCodes: ['NOK'],
   },
   {
     name: 'Brazil',
@@ -254,7 +254,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BRA',
     numericCode: '076',
     topLevelDomains: ['.br'],
-    currencyCodes: [],
+    currencyCodes: ['BRL'],
   },
   {
     name: 'British Indian Ocean Territory',
@@ -262,7 +262,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'IOT',
     numericCode: '086',
     topLevelDomains: ['.io'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Brunei Darussalam',
@@ -278,7 +278,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BGR',
     numericCode: '100',
     topLevelDomains: ['.bg'],
-    currencyCodes: [],
+    currencyCodes: ['BGN'],
   },
   {
     name: 'Burkina Faso',
@@ -286,7 +286,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BFA',
     numericCode: '854',
     topLevelDomains: ['.bf'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Burundi',
@@ -294,7 +294,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BDI',
     numericCode: '108',
     topLevelDomains: ['.bi'],
-    currencyCodes: [],
+    currencyCodes: ['BIF'],
   },
   {
     name: 'Cabo Verde',
@@ -302,7 +302,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CPV',
     numericCode: '132',
     topLevelDomains: ['.cv'],
-    currencyCodes: [],
+    currencyCodes: ['CVE'],
   },
   {
     name: 'Cambodia',
@@ -310,7 +310,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KHM',
     numericCode: '116',
     topLevelDomains: ['.kh'],
-    currencyCodes: [],
+    currencyCodes: ['KHR'],
   },
   {
     name: 'Cameroon',
@@ -318,7 +318,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CMR',
     numericCode: '120',
     topLevelDomains: ['.cm'],
-    currencyCodes: [],
+    currencyCodes: ['XAF'],
   },
   {
     name: 'Canada',
@@ -326,7 +326,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CAN',
     numericCode: '124',
     topLevelDomains: ['.ca'],
-    currencyCodes: [],
+    currencyCodes: ['CAD'],
   },
   {
     name: 'Cayman Islands',
@@ -334,7 +334,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CYM',
     numericCode: '136',
     topLevelDomains: ['.ky'],
-    currencyCodes: [],
+    currencyCodes: ['KYD'],
   },
   {
     name: 'Central African Republic',
@@ -342,7 +342,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CAF',
     numericCode: '140',
     topLevelDomains: ['.cf'],
-    currencyCodes: [],
+    currencyCodes: ['XAF'],
   },
   {
     name: 'Chad',
@@ -350,7 +350,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TCD',
     numericCode: '148',
     topLevelDomains: ['.td'],
-    currencyCodes: [],
+    currencyCodes: ['XAF'],
   },
   {
     name: 'Chile',
@@ -358,7 +358,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CHL',
     numericCode: '152',
     topLevelDomains: ['.cl'],
-    currencyCodes: [],
+    currencyCodes: ['CLF', 'CLP'],
   },
   {
     name: 'China',
@@ -366,7 +366,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CHN',
     numericCode: '156',
     topLevelDomains: ['.cn'],
-    currencyCodes: [],
+    currencyCodes: ['CNY'],
   },
   {
     name: 'Christmas Island',
@@ -374,7 +374,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CXR',
     numericCode: '162',
     topLevelDomains: ['.cx'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Cocos (Keeling) Islands',
@@ -382,7 +382,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CCK',
     numericCode: '166',
     topLevelDomains: ['.cc'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Colombia',
@@ -390,7 +390,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'COL',
     numericCode: '170',
     topLevelDomains: ['.co'],
-    currencyCodes: [],
+    currencyCodes: ['COP', 'COU'],
   },
   {
     name: 'Comoros',
@@ -398,7 +398,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'COM',
     numericCode: '174',
     topLevelDomains: ['.km'],
-    currencyCodes: [],
+    currencyCodes: ['KMF'],
   },
   {
     name: 'Congo (the Democratic Republic of the)',
@@ -414,7 +414,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'COG',
     numericCode: '178',
     topLevelDomains: ['.cg'],
-    currencyCodes: [],
+    currencyCodes: ['CDF', 'XAF'],
   },
   {
     name: 'Cook Islands',
@@ -422,7 +422,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'COK',
     numericCode: '184',
     topLevelDomains: ['.ck'],
-    currencyCodes: [],
+    currencyCodes: ['NZD'],
   },
   {
     name: 'Costa Rica',
@@ -430,7 +430,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CRI',
     numericCode: '188',
     topLevelDomains: ['.cr'],
-    currencyCodes: [],
+    currencyCodes: ['CRC'],
   },
   {
     name: "Côte d'Ivoire",
@@ -438,7 +438,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CIV',
     numericCode: '384',
     topLevelDomains: ['.ci'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Croatia',
@@ -446,7 +446,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'HRV',
     numericCode: '191',
     topLevelDomains: ['.hr'],
-    currencyCodes: [],
+    currencyCodes: ['HRK'],
   },
   {
     name: 'Cuba',
@@ -454,7 +454,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CUB',
     numericCode: '192',
     topLevelDomains: ['.cu'],
-    currencyCodes: [],
+    currencyCodes: ['CUC', 'CUP'],
   },
   {
     name: 'Curaçao',
@@ -462,7 +462,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CUW',
     numericCode: '531',
     topLevelDomains: ['.cw'],
-    currencyCodes: [],
+    currencyCodes: ['ANG'],
   },
   {
     name: 'Cyprus',
@@ -470,7 +470,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CYP',
     numericCode: '196',
     topLevelDomains: ['.cy'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Czechia',
@@ -478,7 +478,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CZE',
     numericCode: '203',
     topLevelDomains: ['.cz'],
-    currencyCodes: [],
+    currencyCodes: ['CZK'],
   },
   {
     name: 'Denmark',
@@ -486,7 +486,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'DNK',
     numericCode: '208',
     topLevelDomains: ['.dk'],
-    currencyCodes: [],
+    currencyCodes: ['DKK'],
   },
   {
     name: 'Djibouti',
@@ -494,7 +494,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'DJI',
     numericCode: '262',
     topLevelDomains: ['.dj'],
-    currencyCodes: [],
+    currencyCodes: ['DJF'],
   },
   {
     name: 'Dominica',
@@ -502,7 +502,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'DMA',
     numericCode: '212',
     topLevelDomains: ['.dm'],
-    currencyCodes: [],
+    currencyCodes: ['DOP', 'XCD'],
   },
   {
     name: 'Dominican Republic',
@@ -510,7 +510,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'DOM',
     numericCode: '214',
     topLevelDomains: ['.do'],
-    currencyCodes: [],
+    currencyCodes: ['DOP'],
   },
   {
     name: 'Ecuador',
@@ -518,7 +518,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ECU',
     numericCode: '218',
     topLevelDomains: ['.ec'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Egypt',
@@ -526,7 +526,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'EGY',
     numericCode: '818',
     topLevelDomains: ['.eg'],
-    currencyCodes: [],
+    currencyCodes: ['EGP'],
   },
   {
     name: 'El Salvador',
@@ -534,7 +534,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SLV',
     numericCode: '222',
     topLevelDomains: ['.sv'],
-    currencyCodes: [],
+    currencyCodes: ['SVC', 'USD'],
   },
   {
     name: 'Equatorial Guinea',
@@ -542,7 +542,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GNQ',
     numericCode: '226',
     topLevelDomains: ['.gq'],
-    currencyCodes: [],
+    currencyCodes: ['XAF'],
   },
   {
     name: 'Eritrea',
@@ -550,7 +550,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ERI',
     numericCode: '232',
     topLevelDomains: ['.er'],
-    currencyCodes: [],
+    currencyCodes: ['ERN'],
   },
   {
     name: 'Estonia',
@@ -558,7 +558,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'EST',
     numericCode: '233',
     topLevelDomains: ['.ee'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Eswatini',
@@ -566,7 +566,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SWZ',
     numericCode: '748',
     topLevelDomains: ['.sz'],
-    currencyCodes: [],
+    currencyCodes: ['SZL', 'ZAR'],
   },
   {
     name: 'Ethiopia',
@@ -574,7 +574,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ETH',
     numericCode: '231',
     topLevelDomains: ['.et'],
-    currencyCodes: [],
+    currencyCodes: ['ETB'],
   },
   {
     name: 'Falkland Islands',
@@ -582,7 +582,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'FLK',
     numericCode: '238',
     topLevelDomains: ['.fk'],
-    currencyCodes: [],
+    currencyCodes: ['FKP'],
   },
   {
     name: 'Faroe Islands',
@@ -590,7 +590,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'FRO',
     numericCode: '234',
     topLevelDomains: ['.fo'],
-    currencyCodes: [],
+    currencyCodes: ['DKK'],
   },
   {
     name: 'Fiji',
@@ -598,7 +598,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'FJI',
     numericCode: '242',
     topLevelDomains: ['.fj'],
-    currencyCodes: [],
+    currencyCodes: ['FJD'],
   },
   {
     name: 'Finland',
@@ -606,7 +606,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'FIN',
     numericCode: '246',
     topLevelDomains: ['.fi'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'France',
@@ -614,7 +614,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'FRA',
     numericCode: '250',
     topLevelDomains: ['.fr'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'French Guiana',
@@ -622,7 +622,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GUF',
     numericCode: '254',
     topLevelDomains: ['.gf'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'French Polynesia',
@@ -630,7 +630,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PYF',
     numericCode: '258',
     topLevelDomains: ['.pf'],
-    currencyCodes: [],
+    currencyCodes: ['XPF'],
   },
   {
     name: 'French Southern Territories',
@@ -638,7 +638,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ATF',
     numericCode: '260',
     topLevelDomains: ['.tf'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Gabon',
@@ -646,7 +646,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GAB',
     numericCode: '266',
     topLevelDomains: ['.ga'],
-    currencyCodes: [],
+    currencyCodes: ['XAF'],
   },
   {
     name: 'Gambia',
@@ -654,7 +654,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GMB',
     numericCode: '270',
     topLevelDomains: ['.gm'],
-    currencyCodes: [],
+    currencyCodes: ['GMD'],
   },
   {
     name: 'Georgia',
@@ -662,7 +662,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GEO',
     numericCode: '268',
     topLevelDomains: ['.ge'],
-    currencyCodes: [],
+    currencyCodes: ['GEL'],
   },
   {
     name: 'Germany',
@@ -670,7 +670,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'DEU',
     numericCode: '276',
     topLevelDomains: ['.de'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Ghana',
@@ -678,7 +678,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GHA',
     numericCode: '288',
     topLevelDomains: ['.gh'],
-    currencyCodes: [],
+    currencyCodes: ['GHS'],
   },
   {
     name: 'Gibraltar',
@@ -686,7 +686,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GIB',
     numericCode: '292',
     topLevelDomains: ['.gi'],
-    currencyCodes: [],
+    currencyCodes: ['GIP'],
   },
   {
     name: 'Greece',
@@ -694,7 +694,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GRC',
     numericCode: '300',
     topLevelDomains: ['.gr'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Greenland',
@@ -702,7 +702,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GRL',
     numericCode: '304',
     topLevelDomains: ['.gl'],
-    currencyCodes: [],
+    currencyCodes: ['DKK'],
   },
   {
     name: 'Grenada',
@@ -710,7 +710,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GRD',
     numericCode: '308',
     topLevelDomains: ['.gd'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Guadeloupe',
@@ -718,7 +718,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GLP',
     numericCode: '312',
     topLevelDomains: ['.gp'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Guam',
@@ -726,7 +726,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GUM',
     numericCode: '316',
     topLevelDomains: ['.gu'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Guatemala',
@@ -734,7 +734,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GTM',
     numericCode: '320',
     topLevelDomains: ['.gt'],
-    currencyCodes: [],
+    currencyCodes: ['GTQ'],
   },
   {
     name: 'Guernsey',
@@ -742,7 +742,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GGY',
     numericCode: '831',
     topLevelDomains: ['.gg'],
-    currencyCodes: [],
+    currencyCodes: ['GBP'],
   },
   {
     name: 'Guinea',
@@ -750,7 +750,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GIN',
     numericCode: '324',
     topLevelDomains: ['.gn'],
-    currencyCodes: [],
+    currencyCodes: ['GNF', 'PGK', 'XAF', 'XOF'],
   },
   {
     name: 'Guinea-Bissau',
@@ -758,7 +758,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GNB',
     numericCode: '624',
     topLevelDomains: ['.gw'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Guyana',
@@ -766,7 +766,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'GUY',
     numericCode: '328',
     topLevelDomains: ['.gy'],
-    currencyCodes: [],
+    currencyCodes: ['GYD'],
   },
   {
     name: 'Haiti',
@@ -774,7 +774,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'HTI',
     numericCode: '332',
     topLevelDomains: ['.ht'],
-    currencyCodes: [],
+    currencyCodes: ['HTG'],
   },
   {
     name: 'Heard Island and McDonald Islands',
@@ -782,7 +782,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'HMD',
     numericCode: '334',
     topLevelDomains: ['.hm'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Holy See',
@@ -790,7 +790,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'VAT',
     numericCode: '336',
     topLevelDomains: ['.va'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Honduras',
@@ -798,7 +798,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'HND',
     numericCode: '340',
     topLevelDomains: ['.hn'],
-    currencyCodes: [],
+    currencyCodes: ['HNL'],
   },
   {
     name: 'Hong Kong',
@@ -806,7 +806,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'HKG',
     numericCode: '344',
     topLevelDomains: ['.hk'],
-    currencyCodes: [],
+    currencyCodes: ['HKD'],
   },
   {
     name: 'Hungary',
@@ -814,7 +814,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'HUN',
     numericCode: '348',
     topLevelDomains: ['.hu'],
-    currencyCodes: [],
+    currencyCodes: ['HUF'],
   },
   {
     name: 'Iceland',
@@ -822,7 +822,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ISL',
     numericCode: '352',
     topLevelDomains: ['.is'],
-    currencyCodes: [],
+    currencyCodes: ['ISK'],
   },
   {
     name: 'India',
@@ -830,7 +830,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'IND',
     numericCode: '356',
     topLevelDomains: ['.in'],
-    currencyCodes: [],
+    currencyCodes: ['INR', 'USD'],
   },
   {
     name: 'Indonesia',
@@ -838,7 +838,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'IDN',
     numericCode: '360',
     topLevelDomains: ['.id'],
-    currencyCodes: [],
+    currencyCodes: ['IDR'],
   },
   {
     name: 'Iran (Islamic Republic of)',
@@ -854,7 +854,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'IRQ',
     numericCode: '368',
     topLevelDomains: ['.iq'],
-    currencyCodes: [],
+    currencyCodes: ['IQD'],
   },
   {
     name: 'Ireland',
@@ -862,7 +862,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'IRL',
     numericCode: '372',
     topLevelDomains: ['.ie'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Isle of Man',
@@ -870,7 +870,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'IMN',
     numericCode: '833',
     topLevelDomains: ['.im'],
-    currencyCodes: [],
+    currencyCodes: ['GBP'],
   },
   {
     name: 'Israel',
@@ -878,7 +878,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ISR',
     numericCode: '376',
     topLevelDomains: ['.il'],
-    currencyCodes: [],
+    currencyCodes: ['ILS'],
   },
   {
     name: 'Italy',
@@ -886,7 +886,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ITA',
     numericCode: '380',
     topLevelDomains: ['.it'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Jamaica',
@@ -894,7 +894,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'JAM',
     numericCode: '388',
     topLevelDomains: ['.jm'],
-    currencyCodes: [],
+    currencyCodes: ['JMD'],
   },
   {
     name: 'Japan',
@@ -902,7 +902,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'JPN',
     numericCode: '392',
     topLevelDomains: ['.jp'],
-    currencyCodes: [],
+    currencyCodes: ['JPY'],
   },
   {
     name: 'Jersey',
@@ -910,7 +910,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'JEY',
     numericCode: '832',
     topLevelDomains: ['.je'],
-    currencyCodes: [],
+    currencyCodes: ['GBP'],
   },
   {
     name: 'Jordan',
@@ -918,7 +918,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'JOR',
     numericCode: '400',
     topLevelDomains: ['.jo'],
-    currencyCodes: [],
+    currencyCodes: ['JOD'],
   },
   {
     name: 'Kazakhstan',
@@ -926,7 +926,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KAZ',
     numericCode: '398',
     topLevelDomains: ['.kz'],
-    currencyCodes: [],
+    currencyCodes: ['KZT'],
   },
   {
     name: 'Kenya',
@@ -934,7 +934,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KEN',
     numericCode: '404',
     topLevelDomains: ['.ke'],
-    currencyCodes: [],
+    currencyCodes: ['KES'],
   },
   {
     name: 'Kiribati',
@@ -942,7 +942,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KIR',
     numericCode: '296',
     topLevelDomains: ['.ki'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: "Korea (the Democratic People's Republic of)",
@@ -966,7 +966,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KWT',
     numericCode: '414',
     topLevelDomains: ['.kw'],
-    currencyCodes: [],
+    currencyCodes: ['KWD'],
   },
   {
     name: 'Kyrgyzstan',
@@ -974,7 +974,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KGZ',
     numericCode: '417',
     topLevelDomains: ['.kg'],
-    currencyCodes: [],
+    currencyCodes: ['KGS'],
   },
   {
     name: "Lao People's Democratic Republic",
@@ -990,7 +990,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LVA',
     numericCode: '428',
     topLevelDomains: ['.lv'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Lebanon',
@@ -998,7 +998,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LBN',
     numericCode: '422',
     topLevelDomains: ['.lb'],
-    currencyCodes: [],
+    currencyCodes: ['LBP'],
   },
   {
     name: 'Lesotho',
@@ -1006,7 +1006,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LSO',
     numericCode: '426',
     topLevelDomains: ['.ls'],
-    currencyCodes: [],
+    currencyCodes: ['LSL', 'ZAR'],
   },
   {
     name: 'Liberia',
@@ -1014,7 +1014,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LBR',
     numericCode: '430',
     topLevelDomains: ['.lr'],
-    currencyCodes: [],
+    currencyCodes: ['LRD'],
   },
   {
     name: 'Libya',
@@ -1022,7 +1022,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LBY',
     numericCode: '434',
     topLevelDomains: ['.ly'],
-    currencyCodes: [],
+    currencyCodes: ['LYD'],
   },
   {
     name: 'Liechtenstein',
@@ -1030,7 +1030,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LIE',
     numericCode: '438',
     topLevelDomains: ['.li'],
-    currencyCodes: [],
+    currencyCodes: ['CHF'],
   },
   {
     name: 'Lithuania',
@@ -1038,7 +1038,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LTU',
     numericCode: '440',
     topLevelDomains: ['.lt'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Luxembourg',
@@ -1046,7 +1046,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LUX',
     numericCode: '442',
     topLevelDomains: ['.lu'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Macao',
@@ -1062,7 +1062,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MKD',
     numericCode: '807',
     topLevelDomains: ['.mk'],
-    currencyCodes: [],
+    currencyCodes: ['MKD'],
   },
   {
     name: 'Madagascar',
@@ -1070,7 +1070,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MDG',
     numericCode: '450',
     topLevelDomains: ['.mg'],
-    currencyCodes: [],
+    currencyCodes: ['MGA'],
   },
   {
     name: 'Malawi',
@@ -1078,7 +1078,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MWI',
     numericCode: '454',
     topLevelDomains: ['.mw'],
-    currencyCodes: [],
+    currencyCodes: ['MWK'],
   },
   {
     name: 'Malaysia',
@@ -1086,7 +1086,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MYS',
     numericCode: '458',
     topLevelDomains: ['.my'],
-    currencyCodes: [],
+    currencyCodes: ['MYR'],
   },
   {
     name: 'Maldives',
@@ -1094,7 +1094,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MDV',
     numericCode: '462',
     topLevelDomains: ['.mv'],
-    currencyCodes: [],
+    currencyCodes: ['MVR'],
   },
   {
     name: 'Mali',
@@ -1102,7 +1102,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MLI',
     numericCode: '466',
     topLevelDomains: ['.ml'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Malta',
@@ -1110,7 +1110,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MLT',
     numericCode: '470',
     topLevelDomains: ['.mt'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Marshall Islands',
@@ -1118,7 +1118,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MHL',
     numericCode: '584',
     topLevelDomains: ['.mh'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Martinique',
@@ -1126,7 +1126,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MTQ',
     numericCode: '474',
     topLevelDomains: ['.mq'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Mauritania',
@@ -1134,7 +1134,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MRT',
     numericCode: '478',
     topLevelDomains: ['.mr'],
-    currencyCodes: [],
+    currencyCodes: ['MRU'],
   },
   {
     name: 'Mauritius',
@@ -1142,7 +1142,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MUS',
     numericCode: '480',
     topLevelDomains: ['.mu'],
-    currencyCodes: [],
+    currencyCodes: ['MUR'],
   },
   {
     name: 'Mayotte',
@@ -1150,7 +1150,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MYT',
     numericCode: '175',
     topLevelDomains: ['.yt'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Mexico',
@@ -1158,7 +1158,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MEX',
     numericCode: '484',
     topLevelDomains: ['.mx'],
-    currencyCodes: [],
+    currencyCodes: ['MXN', 'MXV'],
   },
   {
     name: 'Micronesia (Federated States of)',
@@ -1166,7 +1166,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'FSM',
     numericCode: '583',
     topLevelDomains: ['.fm'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Moldova (the Republic of)',
@@ -1182,7 +1182,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MCO',
     numericCode: '492',
     topLevelDomains: ['.mc'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Mongolia',
@@ -1190,7 +1190,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MNG',
     numericCode: '496',
     topLevelDomains: ['.mn'],
-    currencyCodes: [],
+    currencyCodes: ['MNT'],
   },
   {
     name: 'Montenegro',
@@ -1198,7 +1198,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MNE',
     numericCode: '499',
     topLevelDomains: ['.me'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Montserrat',
@@ -1206,7 +1206,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MSR',
     numericCode: '500',
     topLevelDomains: ['.ms'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Morocco',
@@ -1214,7 +1214,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MAR',
     numericCode: '504',
     topLevelDomains: ['.ma'],
-    currencyCodes: [],
+    currencyCodes: ['MAD'],
   },
   {
     name: 'Mozambique',
@@ -1222,7 +1222,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MOZ',
     numericCode: '508',
     topLevelDomains: ['.mz'],
-    currencyCodes: [],
+    currencyCodes: ['MZN'],
   },
   {
     name: 'Myanmar',
@@ -1230,7 +1230,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MMR',
     numericCode: '104',
     topLevelDomains: ['.mm'],
-    currencyCodes: [],
+    currencyCodes: ['MMK'],
   },
   {
     name: 'Namibia',
@@ -1238,7 +1238,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NAM',
     numericCode: '516',
     topLevelDomains: ['.na'],
-    currencyCodes: [],
+    currencyCodes: ['NAD', 'ZAR'],
   },
   {
     name: 'Nauru',
@@ -1246,7 +1246,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NRU',
     numericCode: '520',
     topLevelDomains: ['.nr'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Nepal',
@@ -1254,7 +1254,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NPL',
     numericCode: '524',
     topLevelDomains: ['.np'],
-    currencyCodes: [],
+    currencyCodes: ['NPR'],
   },
   {
     name: 'Netherlands',
@@ -1262,7 +1262,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NLD',
     numericCode: '528',
     topLevelDomains: ['.nl'],
-    currencyCodes: [],
+    currencyCodes: ['EUR', 'USD'],
   },
   {
     name: 'New Caledonia',
@@ -1270,7 +1270,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NCL',
     numericCode: '540',
     topLevelDomains: ['.nc'],
-    currencyCodes: [],
+    currencyCodes: ['XPF'],
   },
   {
     name: 'New Zealand',
@@ -1278,7 +1278,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NZL',
     numericCode: '554',
     topLevelDomains: ['.nz'],
-    currencyCodes: [],
+    currencyCodes: ['NZD'],
   },
   {
     name: 'Nicaragua',
@@ -1286,7 +1286,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NIC',
     numericCode: '558',
     topLevelDomains: ['.ni'],
-    currencyCodes: [],
+    currencyCodes: ['NIO'],
   },
   {
     name: 'Niger',
@@ -1294,7 +1294,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NER',
     numericCode: '562',
     topLevelDomains: ['.ne'],
-    currencyCodes: [],
+    currencyCodes: ['NGN', 'XOF'],
   },
   {
     name: 'Nigeria',
@@ -1302,7 +1302,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NGA',
     numericCode: '566',
     topLevelDomains: ['.ng'],
-    currencyCodes: [],
+    currencyCodes: ['NGN'],
   },
   {
     name: 'Niue',
@@ -1310,7 +1310,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NIU',
     numericCode: '570',
     topLevelDomains: ['.nu'],
-    currencyCodes: [],
+    currencyCodes: ['NZD'],
   },
   {
     name: 'Norfolk Island',
@@ -1318,7 +1318,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NFK',
     numericCode: '574',
     topLevelDomains: ['.nf'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Northern Mariana Islands',
@@ -1326,7 +1326,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MNP',
     numericCode: '580',
     topLevelDomains: ['.mp'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Norway',
@@ -1334,7 +1334,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'NOR',
     numericCode: '578',
     topLevelDomains: ['.no'],
-    currencyCodes: [],
+    currencyCodes: ['NOK'],
   },
   {
     name: 'Oman',
@@ -1342,7 +1342,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'OMN',
     numericCode: '512',
     topLevelDomains: ['.om'],
-    currencyCodes: [],
+    currencyCodes: ['OMR'],
   },
   {
     name: 'Pakistan',
@@ -1350,7 +1350,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PAK',
     numericCode: '586',
     topLevelDomains: ['.pk'],
-    currencyCodes: [],
+    currencyCodes: ['PKR'],
   },
   {
     name: 'Palau',
@@ -1358,7 +1358,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PLW',
     numericCode: '585',
     topLevelDomains: ['.pw'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Palestine, State of',
@@ -1374,7 +1374,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PAN',
     numericCode: '591',
     topLevelDomains: ['.pa'],
-    currencyCodes: [],
+    currencyCodes: ['PAB', 'USD'],
   },
   {
     name: 'Papua New Guinea',
@@ -1382,7 +1382,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PNG',
     numericCode: '598',
     topLevelDomains: ['.pg'],
-    currencyCodes: [],
+    currencyCodes: ['PGK'],
   },
   {
     name: 'Paraguay',
@@ -1390,7 +1390,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PRY',
     numericCode: '600',
     topLevelDomains: ['.py'],
-    currencyCodes: [],
+    currencyCodes: ['PYG'],
   },
   {
     name: 'Peru',
@@ -1398,7 +1398,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PER',
     numericCode: '604',
     topLevelDomains: ['.pe'],
-    currencyCodes: [],
+    currencyCodes: ['PEN'],
   },
   {
     name: 'Philippines',
@@ -1406,7 +1406,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PHL',
     numericCode: '608',
     topLevelDomains: ['.ph'],
-    currencyCodes: [],
+    currencyCodes: ['PHP'],
   },
   {
     name: 'Pitcairn',
@@ -1414,7 +1414,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PCN',
     numericCode: '612',
     topLevelDomains: ['.pn'],
-    currencyCodes: [],
+    currencyCodes: ['NZD'],
   },
   {
     name: 'Poland',
@@ -1422,7 +1422,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'POL',
     numericCode: '616',
     topLevelDomains: ['.pl'],
-    currencyCodes: [],
+    currencyCodes: ['PLN'],
   },
   {
     name: 'Portugal',
@@ -1430,7 +1430,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PRT',
     numericCode: '620',
     topLevelDomains: ['.pt'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Puerto Rico',
@@ -1438,7 +1438,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'PRI',
     numericCode: '630',
     topLevelDomains: ['.pr'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Qatar',
@@ -1446,7 +1446,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'QAT',
     numericCode: '634',
     topLevelDomains: ['.qa'],
-    currencyCodes: [],
+    currencyCodes: ['QAR'],
   },
   {
     name: 'Réunion',
@@ -1454,7 +1454,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'REU',
     numericCode: '638',
     topLevelDomains: ['.re'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Romania',
@@ -1462,7 +1462,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ROU',
     numericCode: '642',
     topLevelDomains: ['.ro'],
-    currencyCodes: [],
+    currencyCodes: ['RON'],
   },
   {
     name: 'Russian Federation',
@@ -1478,7 +1478,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'RWA',
     numericCode: '646',
     topLevelDomains: ['.rw'],
-    currencyCodes: [],
+    currencyCodes: ['RWF'],
   },
   {
     name: 'Saint Barthélemy',
@@ -1486,7 +1486,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'BLM',
     numericCode: '652',
     topLevelDomains: ['.bl'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Saint Helena Ascension Island Tristan da Cunha',
@@ -1502,7 +1502,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'KNA',
     numericCode: '659',
     topLevelDomains: ['.kn'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Saint Lucia',
@@ -1510,7 +1510,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LCA',
     numericCode: '662',
     topLevelDomains: ['.lc'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Saint Martin (French part)',
@@ -1518,7 +1518,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'MAF',
     numericCode: '663',
     topLevelDomains: ['.mf'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Saint Pierre and Miquelon',
@@ -1526,7 +1526,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SPM',
     numericCode: '666',
     topLevelDomains: ['.pm'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Saint Vincent and the Grenadines',
@@ -1534,7 +1534,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'VCT',
     numericCode: '670',
     topLevelDomains: ['.vc'],
-    currencyCodes: [],
+    currencyCodes: ['XCD'],
   },
   {
     name: 'Samoa',
@@ -1542,7 +1542,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'WSM',
     numericCode: '882',
     topLevelDomains: ['.ws'],
-    currencyCodes: [],
+    currencyCodes: ['USD', 'WST'],
   },
   {
     name: 'San Marino',
@@ -1550,7 +1550,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SMR',
     numericCode: '674',
     topLevelDomains: ['.sm'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Sao Tome and Principe',
@@ -1566,7 +1566,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SAU',
     numericCode: '682',
     topLevelDomains: ['.sa'],
-    currencyCodes: [],
+    currencyCodes: ['SAR'],
   },
   {
     name: 'Senegal',
@@ -1574,7 +1574,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SEN',
     numericCode: '686',
     topLevelDomains: ['.sn'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Serbia',
@@ -1582,7 +1582,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SRB',
     numericCode: '688',
     topLevelDomains: ['.rs'],
-    currencyCodes: [],
+    currencyCodes: ['RSD'],
   },
   {
     name: 'Seychelles',
@@ -1590,7 +1590,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SYC',
     numericCode: '690',
     topLevelDomains: ['.sc'],
-    currencyCodes: [],
+    currencyCodes: ['SCR'],
   },
   {
     name: 'Sierra Leone',
@@ -1598,7 +1598,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SLE',
     numericCode: '694',
     topLevelDomains: ['.sl'],
-    currencyCodes: [],
+    currencyCodes: ['SLL'],
   },
   {
     name: 'Singapore',
@@ -1606,7 +1606,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SGP',
     numericCode: '702',
     topLevelDomains: ['.sg'],
-    currencyCodes: [],
+    currencyCodes: ['SGD'],
   },
   {
     name: 'Sint Maarten (Dutch part)',
@@ -1614,7 +1614,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SXM',
     numericCode: '534',
     topLevelDomains: ['.sx'],
-    currencyCodes: [],
+    currencyCodes: ['ANG'],
   },
   {
     name: 'Slovakia',
@@ -1622,7 +1622,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SVK',
     numericCode: '703',
     topLevelDomains: ['.sk'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Slovenia',
@@ -1630,7 +1630,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SVN',
     numericCode: '705',
     topLevelDomains: ['.si'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Solomon Islands',
@@ -1638,7 +1638,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SLB',
     numericCode: '090',
     topLevelDomains: ['.sb'],
-    currencyCodes: [],
+    currencyCodes: ['SBD'],
   },
   {
     name: 'Somalia',
@@ -1646,7 +1646,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SOM',
     numericCode: '706',
     topLevelDomains: ['.so'],
-    currencyCodes: [],
+    currencyCodes: ['SOS'],
   },
   {
     name: 'South Africa',
@@ -1654,7 +1654,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ZAF',
     numericCode: '710',
     topLevelDomains: ['.za'],
-    currencyCodes: [],
+    currencyCodes: ['ZAR'],
   },
   {
     name: 'South Georgia and the South Sandwich Islands',
@@ -1670,7 +1670,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SSD',
     numericCode: '728',
     topLevelDomains: ['.ss'],
-    currencyCodes: [],
+    currencyCodes: ['SSP'],
   },
   {
     name: 'Spain',
@@ -1678,7 +1678,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ESP',
     numericCode: '724',
     topLevelDomains: ['.es'],
-    currencyCodes: [],
+    currencyCodes: ['EUR'],
   },
   {
     name: 'Sri Lanka',
@@ -1686,7 +1686,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'LKA',
     numericCode: '144',
     topLevelDomains: ['.lk'],
-    currencyCodes: [],
+    currencyCodes: ['LKR'],
   },
   {
     name: 'Sudan',
@@ -1694,7 +1694,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SDN',
     numericCode: '729',
     topLevelDomains: ['.sd'],
-    currencyCodes: [],
+    currencyCodes: ['SDG', 'SSP'],
   },
   {
     name: 'Suriname',
@@ -1702,7 +1702,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SUR',
     numericCode: '740',
     topLevelDomains: ['.sr'],
-    currencyCodes: [],
+    currencyCodes: ['SRD'],
   },
   {
     name: 'Svalbard Jan Mayen',
@@ -1710,7 +1710,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SJM',
     numericCode: '744',
     topLevelDomains: [''],
-    currencyCodes: [],
+    currencyCodes: ['NOK'],
   },
   {
     name: 'Sweden',
@@ -1718,7 +1718,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'SWE',
     numericCode: '752',
     topLevelDomains: ['.se'],
-    currencyCodes: [],
+    currencyCodes: ['SEK'],
   },
   {
     name: 'Switzerland',
@@ -1726,7 +1726,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'CHE',
     numericCode: '756',
     topLevelDomains: ['.ch'],
-    currencyCodes: [],
+    currencyCodes: ['CHE', 'CHF', 'CHW'],
   },
   {
     name: 'Syrian Arab Republic',
@@ -1750,7 +1750,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TJK',
     numericCode: '762',
     topLevelDomains: ['.tj'],
-    currencyCodes: [],
+    currencyCodes: ['TJS'],
   },
   {
     name: 'Tanzania, the United Republic of',
@@ -1766,7 +1766,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'THA',
     numericCode: '764',
     topLevelDomains: ['.th'],
-    currencyCodes: [],
+    currencyCodes: ['THB'],
   },
   {
     name: 'Timor-Leste',
@@ -1774,7 +1774,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TLS',
     numericCode: '626',
     topLevelDomains: ['.tl'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Togo',
@@ -1782,7 +1782,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TGO',
     numericCode: '768',
     topLevelDomains: ['.tg'],
-    currencyCodes: [],
+    currencyCodes: ['XOF'],
   },
   {
     name: 'Tokelau',
@@ -1790,7 +1790,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TKL',
     numericCode: '772',
     topLevelDomains: ['.tk'],
-    currencyCodes: [],
+    currencyCodes: ['NZD'],
   },
   {
     name: 'Tonga',
@@ -1798,7 +1798,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TON',
     numericCode: '776',
     topLevelDomains: ['.to'],
-    currencyCodes: [],
+    currencyCodes: ['TOP'],
   },
   {
     name: 'Trinidad and Tobago',
@@ -1806,7 +1806,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TTO',
     numericCode: '780',
     topLevelDomains: ['.tt'],
-    currencyCodes: [],
+    currencyCodes: ['TTD'],
   },
   {
     name: 'Tunisia',
@@ -1814,7 +1814,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TUN',
     numericCode: '788',
     topLevelDomains: ['.tn'],
-    currencyCodes: [],
+    currencyCodes: ['TND'],
   },
   {
     name: 'Turkey',
@@ -1822,7 +1822,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TUR',
     numericCode: '792',
     topLevelDomains: ['.tr'],
-    currencyCodes: [],
+    currencyCodes: ['TRY'],
   },
   {
     name: 'Turkmenistan',
@@ -1830,7 +1830,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TKM',
     numericCode: '795',
     topLevelDomains: ['.tm'],
-    currencyCodes: [],
+    currencyCodes: ['TMT'],
   },
   {
     name: 'Turks and Caicos Islands',
@@ -1838,7 +1838,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TCA',
     numericCode: '796',
     topLevelDomains: ['.tc'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Tuvalu',
@@ -1846,7 +1846,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'TUV',
     numericCode: '798',
     topLevelDomains: ['.tv'],
-    currencyCodes: [],
+    currencyCodes: ['AUD'],
   },
   {
     name: 'Uganda',
@@ -1854,7 +1854,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'UGA',
     numericCode: '800',
     topLevelDomains: ['.ug'],
-    currencyCodes: [],
+    currencyCodes: ['UGX'],
   },
   {
     name: 'Ukraine',
@@ -1862,7 +1862,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'UKR',
     numericCode: '804',
     topLevelDomains: ['.ua'],
-    currencyCodes: [],
+    currencyCodes: ['UAH'],
   },
   {
     name: 'United Arab Emirates',
@@ -1870,7 +1870,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ARE',
     numericCode: '784',
     topLevelDomains: ['.ae'],
-    currencyCodes: [],
+    currencyCodes: ['AED'],
   },
   {
     name: 'United Kingdom of Great Britain and Northern Ireland',
@@ -1886,7 +1886,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'UMI',
     numericCode: '581',
     topLevelDomains: [''],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'United States of America',
@@ -1902,7 +1902,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'URY',
     numericCode: '858',
     topLevelDomains: ['.uy'],
-    currencyCodes: [],
+    currencyCodes: ['UYI', 'UYU', 'UYW'],
   },
   {
     name: 'Uzbekistan',
@@ -1910,7 +1910,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'UZB',
     numericCode: '860',
     topLevelDomains: ['.uz'],
-    currencyCodes: [],
+    currencyCodes: ['UZS'],
   },
   {
     name: 'Vanuatu',
@@ -1918,7 +1918,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'VUT',
     numericCode: '548',
     topLevelDomains: ['.vu'],
-    currencyCodes: [],
+    currencyCodes: ['VUV'],
   },
   {
     name: 'Venezuela (Bolivarian Republic of)',
@@ -1942,7 +1942,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'VGB',
     numericCode: '092',
     topLevelDomains: ['.vg'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Virgin Islands (U.S.)',
@@ -1950,7 +1950,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'VIR',
     numericCode: '850',
     topLevelDomains: ['.vi'],
-    currencyCodes: [],
+    currencyCodes: ['USD'],
   },
   {
     name: 'Wallis and Futuna',
@@ -1958,7 +1958,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'WLF',
     numericCode: '876',
     topLevelDomains: ['.wf'],
-    currencyCodes: [],
+    currencyCodes: ['XPF'],
   },
   {
     name: 'Western Sahara',
@@ -1966,7 +1966,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ESH',
     numericCode: '732',
     topLevelDomains: [''],
-    currencyCodes: [],
+    currencyCodes: ['MAD'],
   },
   {
     name: 'Yemen',
@@ -1974,7 +1974,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'YEM',
     numericCode: '887',
     topLevelDomains: ['.ye'],
-    currencyCodes: [],
+    currencyCodes: ['YER'],
   },
   {
     name: 'Zambia',
@@ -1982,7 +1982,7 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ZMB',
     numericCode: '894',
     topLevelDomains: ['.zm'],
-    currencyCodes: [],
+    currencyCodes: ['ZMW'],
   },
   {
     name: 'Zimbabwe',
@@ -1990,6 +1990,6 @@ export const countryDataList: CountryData[] = [
     alpha3Code: 'ZWE',
     numericCode: '716',
     topLevelDomains: ['.zw'],
-    currencyCodes: [],
+    currencyCodes: ['ZWL'],
   },
 ];

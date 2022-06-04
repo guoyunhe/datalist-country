@@ -1,7 +1,7 @@
 {
   "name": "@datalist/country",
   "version": "1.0.0",
-  "description": "the most complete country data source, with i18n strings",
+  "description": "the complete country data source",
   "type": "module",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
