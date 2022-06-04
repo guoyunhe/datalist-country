@@ -245,7 +245,7 @@ export const countryDataList: CountryData[] = [
     code: 'BV',
     alpha3Code: 'BVT',
     numericCode: '074',
-    topLevelDomains: [''],
+    topLevelDomains: [],
     currencyCodes: ['NOK'],
   },
   {
@@ -1709,7 +1709,7 @@ export const countryDataList: CountryData[] = [
     code: 'SJ',
     alpha3Code: 'SJM',
     numericCode: '744',
-    topLevelDomains: [''],
+    topLevelDomains: [],
     currencyCodes: ['NOK'],
   },
   {
@@ -1885,7 +1885,7 @@ export const countryDataList: CountryData[] = [
     code: 'UM',
     alpha3Code: 'UMI',
     numericCode: '581',
-    topLevelDomains: [''],
+    topLevelDomains: [],
     currencyCodes: ['USD'],
   },
   {
@@ -1965,7 +1965,7 @@ export const countryDataList: CountryData[] = [
     code: 'EH',
     alpha3Code: 'ESH',
     numericCode: '732',
-    topLevelDomains: [''],
+    topLevelDomains: [],
     currencyCodes: ['MAD'],
   },
   {
