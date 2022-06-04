@@ -1,11 +1,15 @@
 {
   "compilerOptions": {
+    "esModuleInterop": true,
     "module": "esnext",
+    "moduleResolution": "node",
     "target": "esnext",
     "declaration": true,
     "strict": true,
     "lib": ["esnext"],
-    "outDir": "lib"
+    "outDir": "lib",
+    "types": ["jest"]
   },
-  "include": ["src"]
+  "include": ["src"],
+  "exclude": ["**/*.spec.ts"]
 }

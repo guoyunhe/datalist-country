@@ -209,7 +209,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Bolivia',
+    name: 'Bolivia (Plurinational State of)',
     code: 'BO',
     alpha3Code: 'BOL',
     numericCode: '068',
@@ -377,7 +377,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Cocos',
+    name: 'Cocos (Keeling) Islands',
     code: 'CC',
     alpha3Code: 'CCK',
     numericCode: '166',
@@ -401,7 +401,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Congo',
+    name: 'Congo (the Democratic Republic of the)',
     code: 'CD',
     alpha3Code: 'COD',
     numericCode: '180',
@@ -841,7 +841,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Iran',
+    name: 'Iran (Islamic Republic of)',
     code: 'IR',
     alpha3Code: 'IRN',
     numericCode: '364',
@@ -945,7 +945,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Korea',
+    name: "Korea (the Democratic People's Republic of)",
     code: 'KP',
     alpha3Code: 'PRK',
     numericCode: '408',
@@ -953,7 +953,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Korea',
+    name: 'Korea (the Republic of)',
     code: 'KR',
     alpha3Code: 'KOR',
     numericCode: '410',
@@ -1161,7 +1161,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Micronesia',
+    name: 'Micronesia (Federated States of)',
     code: 'FM',
     alpha3Code: 'FSM',
     numericCode: '583',
@@ -1169,7 +1169,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Moldova',
+    name: 'Moldova (the Republic of)',
     code: 'MD',
     alpha3Code: 'MDA',
     numericCode: '498',
@@ -1513,7 +1513,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Saint Martin',
+    name: 'Saint Martin (French part)',
     code: 'MF',
     alpha3Code: 'MAF',
     numericCode: '663',
@@ -1609,7 +1609,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Sint Maarten',
+    name: 'Sint Maarten (Dutch part)',
     code: 'SX',
     alpha3Code: 'SXM',
     numericCode: '534',
@@ -1737,7 +1737,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Taiwan',
+    name: 'Taiwan (Province of China)',
     code: 'TW',
     alpha3Code: 'TWN',
     numericCode: '158',
@@ -1921,7 +1921,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Venezuela',
+    name: 'Venezuela (Bolivarian Republic of)',
     code: 'VE',
     alpha3Code: 'VEN',
     numericCode: '862',
@@ -1937,7 +1937,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Virgin Islands',
+    name: 'Virgin Islands (British)',
     code: 'VG',
     alpha3Code: 'VGB',
     numericCode: '092',
@@ -1945,7 +1945,7 @@ export const countryDataList: CountryData[] = [
     currencyCodes: [],
   },
   {
-    name: 'Virgin Islands',
+    name: 'Virgin Islands (U.S.)',
     code: 'VI',
     alpha3Code: 'VIR',
     numericCode: '850',

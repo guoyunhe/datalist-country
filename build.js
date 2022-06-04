@@ -4,7 +4,7 @@ import { parse } from 'node-html-parser';
 
 function cleanName(input) {
   return input
-    .replaceAll(/\(.*\)/g, '')
+    .replaceAll(/\(the\)/g, '')
     .replaceAll(/\[.*\]/g, '')
     .replaceAll(/\s+/g, ' ')
     .trim();

@@ -1,6 +1,29 @@
-# datalist-country
+# @datalist/country
 
-the most complete country data source, with i18n strings
+## Usage
+
+```
+npm i -S @datalist/country
+```
+
+```js
+import { countryDataList } from '@datalist/country';
+```
+
+## Example
+
+```json
+[
+  {
+    "name": "Finland",
+    "code": "FI",
+    "alpha3Code": "FIN",
+    "numericCode": "246",
+    "topLevelDomains": [".fi"],
+    "currencyCodes": []
+  }
+]
+```
 
 ## Data Source
 
