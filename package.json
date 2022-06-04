@@ -1,0 +1,39 @@
+{
+  "name": "@datalist/country",
+  "version": "1.0.0",
+  "description": "the most complete country data source, with i18n strings",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "build": "node build.js && prettier --write index.ts && tsc --declaration index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/datalist-country.git"
+  },
+  "keywords": [
+    "data-source",
+    "data-list",
+    "metadata",
+    "geo",
+    "global",
+    "locale",
+    "currency",
+    "language",
+    "telephone"
+  ],
+  "author": "Guo Yunhe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/datalist-country/issues"
+  },
+  "homepage": "https://github.com/guoyunhe/datalist-country#readme",
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "node-html-parser": "^5.3.3",
+    "prettier": "^2.6.2",
+    "typescript": "^4.7.3"
+  }
+}
