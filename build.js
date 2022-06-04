@@ -10,6 +10,24 @@ function cleanName(input) {
     .trim();
 }
 
+const countryNameMap = {
+  'Bolivia (Plurinational State of)': 'Bolivia',
+  'Russian Federation': 'Russia',
+  'Iran (Islamic Republic of)': 'Iran',
+  "Korea (the Democratic People's Republic of)": 'North Korea',
+  'Korea (the Republic of)': 'South Korea',
+  'Syrian Arab Republic': 'Syria',
+  'Taiwan (Province of China)': 'Taiwan',
+  Macao: 'Macau',
+  'Viet Nam': 'Vietnam',
+  'Moldova (the Republic of)': 'Moldova',
+  'Brunei Darussalam': 'Brunei',
+  'Venezuela (Bolivarian Republic of)': 'Venezuela',
+  'United States of America': 'United States',
+  'United Kingdom of Great Britain and Northern Ireland': 'United Kingdom',
+  'Tanzania, the United Republic of': 'Tanzania',
+};
+
 (async () => {
   const countries = [];
 
@@ -27,11 +45,17 @@ function cleanName(input) {
       const row = rows[i];
       const cells = row.getElementsByTagName('td');
       if (cells.length === 8) {
-        const name = cleanName(cells[0].textContent);
+        let name = cleanName(cells[0].textContent);
         const code = cleanName(cells[3].querySelector('span').textContent);
         const alpha3Code = cleanName(cells[4].textContent);
         const numericCode = cleanName(cells[5].textContent);
-        const topLevelDomains = cleanName(cells[7].textContent).split(' ');
+        const topLevelDomains = cleanName(cells[7].textContent)
+          .split(' ')
+          .filter(Boolean);
+
+        if (countryNameMap[name]) {
+          name = countryNameMap[name];
+        }
 
         countries.push({
           name,
@@ -59,15 +83,19 @@ function cleanName(input) {
       if (cells.length === 5) {
         const code = cleanName(cells[0].textContent);
         const countryCodes = cells[4].textContent;
-
+        let found = false;
         countries.forEach((country) => {
           if (
             countryCodes.includes('(' + country.code + ')') ||
             countryCodes.includes(country.name)
           ) {
             country.currencyCodes.push(code);
+            found = true;
           }
         });
+        if (!found) {
+          console.log(code, countryCodes);
+        }
       }
     }
   })();
