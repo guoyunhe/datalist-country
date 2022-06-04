@@ -25,22 +25,18 @@ function cleanName(input) {
     const cells = row.getElementsByTagName('td');
     if (cells.length >= 8) {
       const name = cleanName(cells[0].textContent);
-      const officialName = cleanName(cells[1].textContent);
-      const sovereignty = cleanName(cells[2].textContent);
       const code = cleanName(cells[3].querySelector('span').textContent);
       const alpha3Code = cleanName(cells[4].textContent);
       const numericCode = cleanName(cells[5].textContent);
-      const topLevelDomain = cleanName(cells[7].textContent);
+      const topLevelDomains = cleanName(cells[7].textContent).split(' ');
 
       countries.push({
         name,
-        officialName,
-        sovereignty,
         code,
         alpha3Code,
         numericCode,
-        topLevelDomain,
-        currencyCode: '',
+        topLevelDomains,
+        currencyCodes: [],
       });
     }
   }
