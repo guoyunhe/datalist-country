@@ -22,7 +22,7 @@ import { countryDataList } from '@datalist/country';
     "alpha3Code": "FIN",
     "numericCode": "246",
     "topLevelDomains": [".fi"],
-    "currencyCodes": []
+    "currencyCodes": ["EUR"]
   }
 ]
 ```
