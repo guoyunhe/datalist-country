@@ -100,6 +100,8 @@ const countryNameMap = {
     }
   })();
 
+  console.log(countries.length);
+
   const content =
     'import { CountryData } from "./CountryData";export const countryDataList: CountryData[] = ' +
     JSON.stringify(countries, null, 2) +
